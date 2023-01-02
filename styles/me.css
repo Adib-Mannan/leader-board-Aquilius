@@ -1,0 +1,22 @@
+/* Media Query*/
+
+/* Mobile Devices */
+ 
+/* @media only screen and (max-width:688px) {
+    main.container{
+        width: 688px;
+    }
+    .sec1{
+        grid-template-columns: repeat(1, 1fr);
+    }
+    .container2{
+        width: 100%;
+    }
+    .players{
+        grid-template-columns: repeat(1, 1fr);
+    }
+    .player{
+        flex-direction: column;
+    } */
+    
+}
